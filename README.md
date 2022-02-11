@@ -73,5 +73,5 @@ I would like to improve my css skills everyday
 ## Author
 
 - Frontend Mentor - [@happymalyo](https://www.frontendmentor.io/profile/happymalyo)
-- Linkdin - [@happymalyo](https://www.linkedin.com/in/mario-francisco-randrianandrasana-b64151196/)
+- LinkedIn - [@happymalyo](https://www.linkedin.com/in/mario-francisco-randrianandrasana-b64151196/)
 
